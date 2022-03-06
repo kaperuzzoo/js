@@ -1,4 +1,4 @@
-console.log("Var VS Let VS Const")
+console.log("Cadenas-de-Texto-Strings")
 
 
 let nombre = "David";
